@@ -25,7 +25,7 @@ const StyledBanner = styled.header`
 
     .para {
         margin-top: 3rem;
-        
+
         @media(min-width: 961px) {
             max-width: 50rem;
         }
@@ -47,7 +47,7 @@ const StyledBanner = styled.header`
     object, img {
         display: block;
         height: 35rem;
-        
+
         @media(min-width: 961px) {
             margin-left: 3rem;
         }
